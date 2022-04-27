@@ -1,8 +1,11 @@
 #include <Arduino.h>
 #include <FastLED.h>
 
-
 /*
+
+Test
+
+
   Blink
 
   Turns an LED on for one second, then off for one second, repeatedly.
